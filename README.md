@@ -1,1 +1,1 @@
-# script
+#customer script
